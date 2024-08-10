@@ -4,3 +4,6 @@ A project on Unity in which the player controls a stationary character who defen
 - The game features diverse enemies, such as those who move quickly and others who approach slowly;
 - A counter displaying the number of enemies defeated in top right corner;
 - Upon losing, a menu appears showing the total count of enemies defeated. It offers options to either "Restart" or "Quit".
+
+https://github.com/user-attachments/assets/93cc2fd0-93d5-4b97-b920-fea6a2b07928
+
